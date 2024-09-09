@@ -1,0 +1,36 @@
+{
+    "name": "mageride/mageride-canonical-cms",
+    "description": "Magento 2 Canonical CMS and Homepage",
+    "keywords":[
+      "magento 2",
+      "canonical-cmspage",
+      "canonical-homepage",
+      "link-canonical"  
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+        {
+          "name": "MageRide",
+          "email": "support@mageride.com",
+          "homepage": "https://www.mageride.com",
+          "role": "Magento 2 Developer"
+      }
+  ],
+    "autoload": {
+        "files": [
+          "registration.php"
+      ],
+        "psr-4": {
+          "MageRide\\CanonicalCms\\": ""
+      }
+  }
+}

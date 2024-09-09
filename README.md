@@ -4,7 +4,7 @@
 
 The module is very simple to implement and also work with the Mageplaza Blogs extension.
 
-To install the module run composer command : composer require mageride/mageride-canonical-cms
+To install the module run composer command : **composer require mageride/mageride-canonical-cms**
 Run Commands :
 <ul> 
 <li>php bin/magento setup:upgrade</li>

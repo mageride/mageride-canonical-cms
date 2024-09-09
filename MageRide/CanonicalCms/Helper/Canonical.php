@@ -1,4 +1,10 @@
 <?php
+/**
+ * @author MageRide Team
+ * @copyright Copyright (c) 2024 MageRide (https://www.mageride.com)
+ * @package MageRide_CmsLinkToMenu
+ */
+
 declare(strict_types=1);
 
 namespace MageRide\CanonicalCms\Helper;

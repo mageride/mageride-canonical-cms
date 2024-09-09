@@ -1,7 +1,8 @@
 <?php
 /**
- * Copyright © 2016 Magento. All rights reserved.
- * See COPYING.txt for license details.
+ * @author MageRide Team
+ * @copyright Copyright (c) 2024 MageRide (https://www.mageride.com)
+ * @package MageRide_CmsLinkToMenu
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
